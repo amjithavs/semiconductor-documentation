@@ -1,1 +1,159 @@
-/* Technical Writing Portfolio Styles */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#0f172a;
+    color:#f8fafc;
+    line-height:1.7;
+}
+
+header{
+    text-align:center;
+    padding:60px 20px;
+    background:linear-gradient(135deg,#1e293b,#0f172a);
+}
+
+.profile{
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid #38bdf8;
+    box-shadow:0 10px 30px rgba(0,0,0,.4);
+    margin-bottom:25px;
+}
+
+h1{
+    font-size:3rem;
+    font-weight:700;
+}
+
+h2{
+    font-weight:400;
+    margin-top:10px;
+    color:#cbd5e1;
+}
+
+.tagline{
+    margin-top:25px;
+    font-size:1.1rem;
+    color:#94a3b8;
+}
+
+.location{
+    margin-top:15px;
+    color:#38bdf8;
+}
+
+.hero{
+    max-width:900px;
+    margin:70px auto;
+    text-align:center;
+    padding:0 25px;
+}
+
+.hero h2{
+    font-size:2rem;
+    color:white;
+    margin-bottom:25px;
+}
+
+.hero p{
+    font-size:1.1rem;
+    color:#cbd5e1;
+}
+
+.cards{
+
+    max-width:1200px;
+
+    margin:60px auto;
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+    gap:25px;
+
+    padding:20px;
+}
+
+.card{
+
+    background:#1e293b;
+
+    border-radius:15px;
+
+    padding:35px;
+
+    transition:.3s;
+
+    border:1px solid #334155;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+    border-color:#38bdf8;
+
+    box-shadow:0 20px 40px rgba(56,189,248,.2);
+
+}
+
+.card h3{
+
+    margin-bottom:18px;
+
+    color:#38bdf8;
+
+}
+
+.card p{
+
+    color:#cbd5e1;
+
+}
+
+footer{
+
+    text-align:center;
+
+    padding:40px;
+
+    margin-top:70px;
+
+    border-top:1px solid #334155;
+
+    color:#94a3b8;
+
+}
+
+@media(max-width:768px){
+
+h1{
+
+font-size:2.2rem;
+
+}
+
+.hero h2{
+
+font-size:1.6rem;
+
+}
+
+.profile{
+
+width:140px;
+
+height:140px;
+
+}
+
+}
