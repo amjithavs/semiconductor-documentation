@@ -1,5 +1,3 @@
-<p align="center">
-
 # Amjitha VS
 
 ### Senior Technical Writer • Documentation Lead
@@ -8,11 +6,10 @@
 
 📍 Bangalore, India
 
-</p>
-
 ---
 
-> **Enterprise documentation portfolio demonstrating end-to-end product documentation, API documentation, documentation strategy, and Docs-as-Code practices across Semiconductor, FinTech, and Enterprise Software.**
+> Enterprise documentation portfolio demonstrating end-to-end product documentation, API documentation, documentation strategy, and Docs-as-Code practices across Semiconductor, FinTech, and Enterprise Software.
+
 
 ---
 
