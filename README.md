@@ -6,7 +6,7 @@ A curated portfolio demonstrating end-to-end product documentation, API document
 
 # About Me
 
-Hi, I'm **Amjitha VS**, a Senior Technical Writer with **14+ years of experience** creating technical documentation for enterprise software, semiconductor (EDA), and FinTech products.
+Hi, I'm **Amjitha VS**, a Senior Technical Writer with **12+ years of experience** creating technical documentation for enterprise software, semiconductor (EDA), and FinTech products.
 
 My expertise includes:
 
