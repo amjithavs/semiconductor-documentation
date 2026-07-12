@@ -8,7 +8,7 @@
 
 Hi, I'm **Amjitha VS**.
 
-I'm a Senior Technical Writer with **14+ years of experience** creating technical documentation for **Semiconductor (EDA), FinTech, and Enterprise Software** products.
+I'm a Senior Technical Writer with **12+ years of experience** creating technical documentation for **Semiconductor (EDA), FinTech, and Enterprise Software** products.
 
 Throughout my career, I have collaborated with Engineering, Product Management, QA, Customer Support, and UX teams to transform complex technical concepts into clear, accurate, and customer-focused documentation.
 
